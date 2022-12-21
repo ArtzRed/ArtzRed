@@ -9,8 +9,6 @@
   <img align="left" alt="Miguel LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
 <br />
 
 Hola soy [Miguel], Una persona apasionada por las computadores y eso mismo me llevo a querer estudiar desarrollo web y programacion por ahora no considero que sepa mucho pero en algun futuro tendre mas cosas para actualizar esto
