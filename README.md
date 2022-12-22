@@ -1,11 +1,11 @@
 ### Hola Bienvenido
-<a href="https://www.instagram.com/artz_red/">
+<a target="_blank" href="https://www.instagram.com/artz_red/">
   <img align="left" alt="Miguel Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://twitter.com/miguelojeda432">
+<a target="_blank" href="https://twitter.com/miguelojeda432">
   <img align="left" alt="Miguel Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/miguel-ojeda-0a5958259/">
+<a target="_blank" href="https://www.linkedin.com/in/miguel-ojeda-0a5958259/">
   <img align="left" alt="Miguel LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
